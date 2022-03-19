@@ -1,1 +1,2 @@
-##A Single page application to display cryptocurrency prices
+# About
+A Single page application to display cryptocurrency prices
